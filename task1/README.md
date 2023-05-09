@@ -1,14 +1,18 @@
 
+## Brief
 
-REST API
+- Create an API to list all products.
+- Create an API to fetch a product with the highest price.
+- Create an API to fetch the sum of prices of all products.
 
-To get all products  
-http://localhost:3000/list-products
+## Installation
 
+#### Clone the repository
+``` git clone  https://github.com/amritkh078/tasks/tree/main/task1```
 
-To get expensive product   
-http://localhost:3000/list/expensive
+#### install the packages
+``` npm install ```
 
+## run the program
+``` npm start```
 
-To get sum of all prices   
-http://localhost:3000/list/sum
