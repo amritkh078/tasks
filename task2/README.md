@@ -8,7 +8,7 @@
 
 #### Clone the repository
 
-` git clone  https://github.com/amritkh078/tasks/tree/main/task1`
+` git clone  https://github.com/amritkh078/tasks/tree/main/task2`
 
 #### install the packages
 
