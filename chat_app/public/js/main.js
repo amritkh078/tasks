@@ -48,10 +48,6 @@ function outputMessage(message){
     document.querySelector('.chat-messages').appendChild(div);
 }
 
-// add room name to DOM
-function outputRoomName(room){
-    roomName.innerText = room;
-}
 
 // add users to DOM
 function outputUsers(users){
