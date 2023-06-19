@@ -7,7 +7,7 @@
 
 #### Clone the repository
 
-` git clone  https://github.com/amritkh078/tasks/tree/main/task6`
+` git clone  https://github.com/amritkh078/tasks/tree/main/chat_app`
 
 #### install the packages
 
